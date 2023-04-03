@@ -6,6 +6,11 @@
 - :hammer: Creator of applications and frameworks
 - :ram: Founder the ObjCCN
 
+### Links:
 
-![Top Langs](https://github-readme-streak-stats.herokuapp.com?user=husanr&theme=radical)
+- CSDN: https://blog.csdn.net/weixin_42560424?type=blog 
+- 掘金: https://juejin.cn/user/1169536102434904
+- Email: huh3875@yeah.net
+
+### My GitHub Contributions！
 ![](https://raw.githubusercontent.com/husanr/husanr/main/assets/github-contribution-grid-snake.svg)
