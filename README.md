@@ -7,7 +7,7 @@
 - :ram: 爱好唱、跳、rap、篮球👀
 
 ### My GitHub Contributions！
-[//](https://raw.githubusercontent.com/husanr/husanr/main/assets/github-contribution-grid-snake.svg)
+[](https://raw.githubusercontent.com/husanr/husanr/main/assets/github-contribution-grid-snake.svg)
 ![snake](https://raw.githubusercontent.com/husanr/husanr/output/github-contribution-grid-snake.svg)
 
 ### Links:
