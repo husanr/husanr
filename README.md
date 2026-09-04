@@ -2,7 +2,7 @@
 
 # 欢迎光临，Welcome!
 
-- :orange_book: Web 开发工程师
+- :orange_book: Web/AI 开发工程师
 - :hammer: 没事喜欢研究新技术
 - :ram: 爱好唱、跳、rap、篮球👀
 
